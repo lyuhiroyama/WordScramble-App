@@ -1,5 +1,5 @@
 # WordScramble App
-### A game to see how many words you can form from a random eight-letter starter word.
+### An iOS game to see how many words you can form from a random eight-letter starter word.
 
 Project 5 for Paul Hudson's 100 days of SwiftUI.
 
